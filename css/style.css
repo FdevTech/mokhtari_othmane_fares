@@ -340,3 +340,23 @@ font-weight:600;
 {
     font-weight: bold;
 }
+.contact .col-md-4 a:link 
+{
+    color:#fff;
+    text-decoration: none;
+}
+.contact .col-md-4 a:visited
+{
+    color:#fff;
+    text-decoration: none;
+}
+.contact .col-md-4 a:hover
+{
+    color:#fff;
+    text-decoration: none;
+}
+.contact .col-md-4 a:active
+{
+    color:#fff;
+    text-decoration: none;
+}
